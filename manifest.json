@@ -1,0 +1,21 @@
+{
+  "background_color": "#ff7300",
+  "display": "standalone",
+  "lang": "en",
+  "name": "StarFish",
+  "short_name": "StarFish",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "id": "ru.sushiroll.app"
+    },
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=ru.sushiroll.app",
+      "id": "ru.sushiroll.app"
+    }
+  ],
+  "prefer_related_applications": true
+}
