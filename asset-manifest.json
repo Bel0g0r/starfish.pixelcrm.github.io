@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/starfish.pixelcrm.github.io/static/css/main.ff10955f.css",
-    "main.js": "/starfish.pixelcrm.github.io/static/js/main.1a9f6913.js",
-    "static/js/356.f460881d.js": "/starfish.pixelcrm.github.io/static/js/356.f460881d.js",
+    "main.js": "/starfish.pixelcrm.github.io/static/js/main.a9b8cb22.js",
+    "static/js/356.23875e80.js": "/starfish.pixelcrm.github.io/static/js/356.23875e80.js",
     "static/media/MaterialCommunityIcons.ttf": "/starfish.pixelcrm.github.io/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Ionicons.ttf": "/starfish.pixelcrm.github.io/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
     "static/media/MaterialIcons.ttf": "/starfish.pixelcrm.github.io/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
@@ -30,12 +30,12 @@
     "manifest.json": "/starfish.pixelcrm.github.io/manifest.json",
     "serve.json": "/starfish.pixelcrm.github.io/serve.json",
     "main.ff10955f.css.map": "/starfish.pixelcrm.github.io/static/css/main.ff10955f.css.map",
-    "main.1a9f6913.js.map": "/starfish.pixelcrm.github.io/static/js/main.1a9f6913.js.map",
-    "356.f460881d.js.map": "/starfish.pixelcrm.github.io/static/js/356.f460881d.js.map"
+    "main.a9b8cb22.js.map": "/starfish.pixelcrm.github.io/static/js/main.a9b8cb22.js.map",
+    "356.23875e80.js.map": "/starfish.pixelcrm.github.io/static/js/356.23875e80.js.map"
   },
   "entrypoints": [
-    "static/js/356.f460881d.js",
+    "static/js/356.23875e80.js",
     "static/css/main.ff10955f.css",
-    "static/js/main.1a9f6913.js"
+    "static/js/main.a9b8cb22.js"
   ]
 }
